@@ -36,9 +36,4 @@ Learning Pandas is not just about coding challenges — it directly applies to r
      Join, merge, and aggregate data for training and evaluation.  
 - **Business & Industry Applications**  – Data-driven decision-making in finance, healthcare, e-commerce, etc.  
 
-In short: **Pandas is the first step in any AI/ML pipeline.** Without clean, structured data, even the best neural networks won’t work effectively.
-
----
-
-## Acknowledgment
-Thanks to [LeetCode](https://leetcode.com/studyplan/introduction-to-pandas/) for providing the **Pandas Study Plan**.  
+In short: **Pandas is the first step in any AI/ML pipeline.** Without clean, structured data, even the best neural networks won’t work effectively.  
